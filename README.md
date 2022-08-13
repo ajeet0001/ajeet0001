@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ajeet choudhry
-- 👀 I’m interested in web development and ethical hacking.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on front -end development project.
+- 👀 I’m interested in Software Development and Machine Learning.
+- 💞️ I’m looking to collaborate on Machine Learning and Data Science project.
 - 📫 How to reach me my mail is :ajeetchoudhary2802@gmail.com
 
 <!---
