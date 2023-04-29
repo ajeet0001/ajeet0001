@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajeet choudhry
-- 👀 I’m interested in Software Development and Machine Learning.
-- 💞️ I’m looking to collaborate on Machine Learning and Data Science project.
+- 👀 I’m interested in Software Development.
+- 💞️ I’m looking to collaborate on web development project.
 - 📫 How to reach me my mail is :ajeetchoudhary2802@gmail.com
 
 <!---
